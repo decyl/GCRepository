@@ -3,3 +3,6 @@
 ################################################################################
 
 /GCwebApi/bin/Debug/netcoreapp3.1
+/GCwebApi/obj
+/.vs/GC.WebApi/v16
+/TestResults
